@@ -1,0 +1,3 @@
+name = "bst"
+language = "Rust"
+description = "Binary Search Tree property-based testing workload (Rust)."
