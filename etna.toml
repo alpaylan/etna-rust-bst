@@ -1,6 +1,7 @@
 name = "bst-rust"
 language = "Rust"
 description = "Binary Search Tree property-based testing workload (Rust)."
+strategies = ["proptest", "quickcheck", "hegel"]
 
 mutations = [
   "insert_1",
